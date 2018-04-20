@@ -1,0 +1,9 @@
+{
+  "short_name": "Aluguel x Financiamento",
+  "name": "Verifique se vale mais a pena alugar ou financiar",
+  "icons": [ ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
